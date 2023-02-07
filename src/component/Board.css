@@ -1,0 +1,48 @@
+.board{
+    background-color: #263238;
+    display: flex;
+    flex-direction: column;
+}
+
+.board-title{
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white;
+    font-size: 50px;
+}
+
+.board-desc{
+    color: gray;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+
+.create-post{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.posts{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 50px;
+}
+
+.board-list{
+    background-color: #263238;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}

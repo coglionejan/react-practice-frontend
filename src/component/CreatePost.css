@@ -1,0 +1,43 @@
+.CreatePost{
+    background-color: #263238;
+    display: flex;
+    flex-direction: column;
+}
+
+.create-title{
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white;
+    font-size: 50px;
+}
+
+.postComponent{
+    background-color: #263238;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.postTitle{
+    margin-bottom: 30px;
+    font-size: 20px;
+    height: 23px;
+}
+
+.postSave{
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 100px;
+    width: 120px;
+    align-self: flex-end;
+    margin-bottom: 150px;
+}
